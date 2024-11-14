@@ -26,7 +26,7 @@
       </div>
    </div>
 </div>
-<div class="section-padding funfact" data-bg-image="<?php echo base_url(''); ?>/images/funfact/funfact-bg2.jpg">
+<div class="section-padding funfact" style="background-color: #05402A;">
    <div class="container">
       <div class="row">
          <div class="col-lg-6 wow fadeIn" fadeIndata-wow-duration=".1s" data-wow-delay=".1s">
