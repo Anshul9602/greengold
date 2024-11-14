@@ -64,10 +64,7 @@
                 </div>
             </div>
         </div>
-        <div class="speciality-shape scene" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: inherit;">
-            <img data-depth="0.20" class="shape shape1" src="images/speciality/shape1.png" alt="shape" style="transform: translate3d(-19.2px, -6.4px, 0px);">
-            <img data-depth="0.20" class="shape shape2" src="images/speciality/shape2.png" alt="shape" style="transform: translate3d(-19.2px, -6.4px, 0px);">
-        </div>
+        
     </div>
     <br /><br />
      <div class="container mt-5 mb-5">

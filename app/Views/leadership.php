@@ -139,9 +139,7 @@
             </div>
         </div>
 
-        <div class="shape shape-1" data-depth="0.08">
-            <img src="/images/shape/shape-20.png" alt="Shape">
-        </div>
+       
     </div> -->
     <!-- Testimonial Section End -->
 

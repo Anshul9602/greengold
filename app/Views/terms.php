@@ -11,11 +11,11 @@
     </div>                   
     <div class="col-sm-12 text-left">
     <br /><br />
-     <p>By browsing and using our website <a href="https://www.jaguarsteelandcoal.com/">https://www.jaguarsteelandcoal.com/</a> and engaging with our services related to ferrous and non-ferrous steel scrap, you agree to comply with and be bound by the following terms and conditions. These terms, along with our <a href="#">Privacy Policy</a>, govern our relationship with you in relation to this website.</p>
+     <p>By browsing and using our website <a href="<?php echo base_url(''); ?>"><?php echo base_url(''); ?></a> and engaging with our services related to ferrous and non-ferrous steel scrap, you agree to comply with and be bound by the following terms and conditions. These terms, along with our <a href="<?php echo base_url('privacy'); ?>">Privacy Policy</a>, govern our relationship with you in relation to this website.</p>
     <p>If you disagree with any part of these terms and conditions, please do not use our website.</p>
 
     <h4>1. Definitions</h4>
-    <p>"Jaguar Steel," "us," or "we" refers to the owner of the website whose registered office is [Your Address].</p>
+    <p>"Green Gold," "us," or "we" refers to the owner of the website whose registered office is Unit #11-30, 8 Marina Boulevard, Level-11, Singapore 018981.</p>
     <p>"You" refers to the user or viewer of our website.</p>
 
     <h4>2. Use of Website</h4>
@@ -25,7 +25,7 @@
     <p><strong>Responsibility:</strong> It is your responsibility to ensure that any products, services, or information available through this website meet your specific requirements.</p>
 
     <h4>3. Intellectual Property</h4>
-    <p><strong>Content Ownership:</strong> The material on our website, including design, layout, and graphics, is owned by or licensed to Jaguar Steel. Unauthorized reproduction is prohibited, except as permitted by our copyright notice.</p>
+    <p><strong>Content Ownership:</strong> The material on our website, including design, layout, and graphics, is owned by or licensed to Green Gold. Unauthorized reproduction is prohibited, except as permitted by our copyright notice.</p>
     <p><strong>Trademarks:</strong> All trademarks reproduced on our website, which are not the property of or licensed to us, are acknowledged.</p>
 
     <h4>4. Liability</h4>
@@ -38,12 +38,12 @@
     <p><strong>Updates:</strong> We may update these Terms and Conditions periodically. Changes will be posted on this page and will become effective immediately upon posting. Please review these terms regularly.</p>
 
     <h4>7. Governing Law</h4>
-    <p><strong>Jurisdiction:</strong> These Terms and Conditions are governed by the laws of [Your Jurisdiction]. Any disputes arising from your use of the website will be subject to the exclusive jurisdiction of the courts in [Your Jurisdiction].</p>
+    <p><strong>Jurisdiction:</strong> These Terms and Conditions are governed by the laws of Singapore . Any disputes arising from your use of the website will be subject to the exclusive jurisdiction of the courts in Singapore .</p>
 
     <h4>8. Contact Us</h4>
     <p>For any questions regarding these Terms and Conditions, please contact us at:</p>
-    <p><strong>Jaguar Steel</strong><br>
-    Email: <a href="mailto:sales@jaguarsteelandcoal.com">sales@jaguarsteelandcoal.com</a></p>
+    <p><strong>Green Gold</strong><br>
+    Email: <a href="mailto:sales@greengold.com">sales@greengold.com</a></p>
     <br /><br />
   
     </div>

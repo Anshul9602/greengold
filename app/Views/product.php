@@ -198,21 +198,9 @@
 
         <h2 class="rotate-title rotate-right d-none d-xxl-block">PRODUCTS</h2>
 
-        <div class="shape shape-1">
-            <img src="<?php echo base_url(''); ?>/images/shape/dot-2.png" alt="Shape">
-        </div>
-        <div class="shape shape-2">
-            <img src="<?php echo base_url(''); ?>/images/shape/shape-7.png" alt="Shape">
-        </div>
-        <div class="shape shape-4">
-            <img src="<?php echo base_url(''); ?>/images/shape/shape-9.png" alt="Shape">
-        </div>
-        <div class="shape shape-5">
-            <img src="<?php echo base_url(''); ?>/images/shape/dot-1.png" alt="Shape">
-        </div>
-        <div class="shape shape-6">
-            <img src="<?php echo base_url(''); ?>/images/shape/shape-10.png" alt="Shape">
-        </div>
+        
+        
+       
     </div>
     <!-- <div class="container mb-5">
     <div class="row">

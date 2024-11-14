@@ -1,14 +1,7 @@
   <!---check --->
    <!-- Service Three Section Start -->
    <div class="service-three mt-4">
-        <div class="shape scene unselectable" data-friction-x="0.1" data-friction-y="0.1" data-scalar-x="25" data-scalar-y="15">
-            <div class="shape1" data-depth="0.14">
-                <img src="<?php echo base_url();?>/images/service/icon/shape.png" alt="shape">
-            </div>
-            <div class="shape2" data-depth="0.14">
-                <img src="<?php echo base_url();?>/images/service/icon/shape.png" alt="shape">
-            </div>
-        </div>
+        
         <div class="container">
             <div class="row service-three-wrapper">
                 <div class="col-lg-3 col-sm-6 single-service wow fadeIn" data-wow-duration="1.5s" data-wow-delay=".1s">
@@ -56,9 +49,7 @@
     </div>
       <!-- Service Three Section End -->
   <div class="service-two section-padding-bottom">
-        <div class="service-two-shape scene" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: inherit;">
-            <div class="shape shape-1" data-depth="0.08" style="transform: translate3d(-3px, 3.4px, 0px);"><img src="<?php echo base_url('images/shape/shape-20.png');?>" alt="Shape"></div>
-        </div>
+        
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -209,10 +200,7 @@
                 </div>
             </div>
         </div>
-        <div class="why-choose-us_shape scene" style="transform: translate3d(0px, 0px, 0px) rotate(0.0001deg); transform-style: preserve-3d; backface-visibility: hidden; pointer-events: inherit;">
-            <img class="shape shape1 wow fadeIn" fadeIndata-wow-duration=".1s" data-wow-delay=".1s" src="<?php echo base_url('images/choose/circle.png');?>" alt="shape" style="transform: translate3d(0px, 0px, 0px); visibility: visible; animation-duration: .5s; animation-delay: 0.01s; animation-name: fadeIn;">
-            <img data-depth="0.20" class="shape shape3" src="<?php echo base_url('images/choose/shape2.png');?>" alt="shape" style="transform: translate3d(-17px, -5.4px, 0px);">
-        </div>
+        
     </div>
 
 <br /><br /><br />

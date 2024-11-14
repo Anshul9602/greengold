@@ -1084,18 +1084,14 @@ hr {
   z-index: 999;
   transition: 0.3s;
 }
-.header-wrapper-two .main-menu > ul > li > a {
-  line-height: 105px;
+header{
+  padding: 15px 0;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
-  .header-wrapper-two .main-menu > ul > li > a {
-    line-height: 100px;
-  }
+ 
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .header-wrapper-two .main-menu > ul > li > a {
-    line-height: 100px;
-  }
+ 
 }
 .header-wrapper-two .hamburger_button span {
   background: #ffffff;
@@ -1158,7 +1154,7 @@ hr {
 .main-menu > ul > li > a {
   font-size: 16px;
   text-transform: uppercase;
-  line-height: 120px;
+  line-height: auto;
   cursor: pointer;
   font-weight: 500;
   color: #ffffff;
@@ -1370,10 +1366,10 @@ hr {
   color: #ffffff;
 }
 .sticky-header.sticky .main-menu > ul > li > a {
-  line-height: 90px;
+  line-height: auto;
 }
 .sticky-header.sticky .social-icon li a {
-  line-height: 80px;
+  line-height: auto;
 }
 .sticky-header.sticky .header-button {
   line-height: 80px;
@@ -9318,7 +9314,7 @@ hr {
   transition: all 0.4s;
 }
 .brand-style .swiper-slide:hover .brand-before {
-  transform: translateY(-100%);
+  transform: translateY(0%);
 }
 .brand-style .swiper-slide:hover .brand-after {
   top: 0%;

@@ -389,9 +389,7 @@
           
          </div>
       </div>
-      <div class="shape shape-1">
-         <img src="<?php echo base_url(); ?>/images/shape/dot-2.png" alt="Shape">
-      </div>
+   
 
 
       <div class="shape shape-6">
@@ -506,9 +504,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="testimonial-one-thumb gradient-1 wow flipInY" data-wow-duration="1.5s" data-wow-delay=".1s">
-                            <img src="<?php echo base_url(''); ?>/images/testimonial/testimonial-quote.png" alt="QuoteImage">
-                        </div>
+                       
                     </div>
                 </div>
             </div>
