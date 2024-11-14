@@ -119,12 +119,7 @@
                         <div class="col-lg-6 wow fadeIn" fadeIndata-wow-duration=".1s" data-wow-delay=".1s">
                            
                             <div class="about-tab-image">
-                                <div class="shape shape-1">
-                                    <img src="<?php echo base_url(''); ?>/images/shape/shape-6.png" alt="Shape">
-                                </div>
-                                <div class="shape shape-2">
-                                    <img src="<?php echo base_url(''); ?>/images/shape/shape-7.png" alt="Shape">
-                                </div>
+                                
                                 <div class="about-tab-image-one js-tilt">
                                     <img src=" <?php echo base_url(''); ?>/images/carbon3.jpg" alt="AboutImage"style="border-radius:12px;">
                                 </div>

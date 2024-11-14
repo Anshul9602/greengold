@@ -252,39 +252,39 @@ hr {
 /* Custom Container */
 @media only screen and (min-width: 1400px) {
   .container {
-    max-width: 1194px;
+    max-width: 90%;
   }
 }
 
 .custom-container {
-  max-width: 1450px;
+  max-width: 90%;
   width: 100%;
 }
 @media only screen and (min-width: 1800px) {
   .custom-container {
-    margin: 0 100px 0 auto;
+    margin: auto;
   }
 }
 @media only screen and (min-width: 1700px) and (max-width: 1799px) {
   .custom-container {
-    margin: 0 100px 0 auto;
+    margin: auto;
   }
 }
 @media only screen and (min-width: 1550px) and (max-width: 1699px) {
   .custom-container {
-    margin: 0 80px 0 auto;
-    max-width: 1300px;
+    margin: auto;
+    max-width: 90%;
   }
 }
 @media only screen and (min-width: 1300px) and (max-width: 1549px) {
   .custom-container {
-    margin: 0 30px 0 auto;
-    max-width: 1200px;
+    margin: auto;
+    max-width: 90%;
   }
 }
 @media only screen and (min-width: 320px) and (max-width: 1299px) {
   .custom-container {
-    margin: 0 auto 0;
+    margin:auto;
   }
 }
 
@@ -612,14 +612,13 @@ hr {
 /*  1.2 Button Styles CSS
 /*----------------------------------------*/
 .btn-style-one {
-  background: #081D55;
+  background: black;
   border: 0px;
- 
   text-transform:capitalize;
   font-weight: 400;
   font-size: 16px;
   color: #ffffff;
-  padding: 20px 45px;
+  padding: 15px 30px;
   line-height: 1;
   position: relative;
 }
@@ -651,7 +650,7 @@ hr {
   z-index: 1;
 }
 .btn-style-one:hover span {
-  color: #ffffff;
+  color: #000;
 }
 .btn-style-one:hover::before {
   opacity: 1;
@@ -664,14 +663,14 @@ hr {
 }
 
 .btn-style-one {
-  background: #181817;
+  background: black;
   border: 0px;
-  border-radius: 7px;
+
   text-transform:capitalize;
   font-weight: 400;
   font-size: 16px;
   color: #ffffff;
-  padding: 25px 65px;
+  padding: 15px 30px;
   line-height: 1;
   position: relative;
 }
@@ -690,7 +689,9 @@ hr {
   box-shadow: none;
 }
 .btn-style-one:hover {
-  color: #ffffff;
+ border: 1px solid #000;
+ background-color: transparent;
+ color: #000 !important;
   
 }
 
@@ -727,26 +728,26 @@ hr {
 }
 
 .btn-style-four {
-  background: #181817;
+  background: black;
   border: 0px;
-  border-radius: 7px;
+
   font-family: "Inter" , sans-serif;
   text-transform: capitalize;
   font-weight: 400;
   font-size: 18px;
   color: #ffffff;
-  padding: 21px 65px;
+  padding: 15px 30px;
   line-height: 1;
   position: relative;
 }
 @media only screen and (max-width: 767px) {
   .btn-style-four {
-    padding: 16px 30px;
+    padding: 10px 20px;
   }
 }
 @media only screen and (max-width: 479px) {
   .btn-style-four {
-    padding: 15px 20px;
+   
     font-size: 14px;
   }
 }
@@ -754,7 +755,15 @@ hr {
   box-shadow: none;
 }
 .btn-style-four:hover {
-  color: #ffffff;
+border: 1px solid #000;
+background-color: transparent;
+color:#000;
+  
+}
+.home-contact_form .btn-style-four:hover {
+border: 1px solid #fff;
+background-color: transparent;
+color:#fff;
   
 }
 
@@ -11945,7 +11954,7 @@ header{
 }
 .funfact .about-counter-title {
   text-transform: uppercase;
-  font-size: 21px;
+  font-size: 15px;
   font-weight: 700;
   color: #ffffff;
   line-height: 1.5;
@@ -14569,7 +14578,7 @@ header{
 }
 .home-contact_form input, .home-contact_form textarea, .home-contact_form button {
   width: 100%;
-  border-radius: 7px;
+ 
   border: 0px;
 }
 .home-contact_form input::-moz-placeholder, .home-contact_form textarea::-moz-placeholder {

@@ -9,6 +9,10 @@
     spaceBetween: 30,
     centeredSlides: true,
     loop:true,
+    autoplay: {
+      delay: 3000, // Delay in ms (3000ms = 3 seconds)
+      disableOnInteraction: false, // Continue autoplay even after user interaction
+    },
     pagination: {
       el: ".swiper-pagination",
       clickable: true,
@@ -27,6 +31,11 @@
     slidesPerView: 1,
     spaceBetween: 30,
     centeredSlides: true,
+    loop:true,
+    autoplay: {
+      delay: 3000, // Delay in ms (3000ms = 3 seconds)
+      disableOnInteraction: false, // Continue autoplay even after user interaction
+    },
     pagination: {
       el: ".swiper-pagination",
       clickable: true,

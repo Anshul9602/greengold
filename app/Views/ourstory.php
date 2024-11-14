@@ -44,12 +44,16 @@
             <div class="about-counter">
                <div class="about-counter-2 wow fadeIn" fadeIndata-wow-duration=".1s" data-wow-delay=".1s">
                   <span class="about-counter-title">
-                     <font style="font-size:60px">2012</font><br />Year Established
+                     <font style="font-size:60px">20<span class="odometer" data-count-to="12"></span>
+                     </font><br />Year Established
                   </span>
                </div>
                <div class="about-counter-2 wow fadeIn" fadeIndata-wow-duration=".01s" data-wow-delay=".1s">
                   <span class="about-counter-title">
-                     <font style="font-size:60px">2024</font>
+                     <font style="font-size:60px">20<span class="odometer" data-count-to="24"></span></font>
+                    
+                  </span>
+                  <span class="about-counter-title" >
                      Winner of the Dun & Bradstreet Business Eminence award Singapore
                   </span>
                </div>

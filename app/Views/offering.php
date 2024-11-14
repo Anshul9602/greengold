@@ -28,7 +28,7 @@
         <h4 class="color">Design Engineering & Consultancy</h4>
       <p class="card-description-w">In connection with contracts that may vary from a few months to many years, we operate and maintain water and wastewater treatment plants, whether or not we built them, to enable customers to optimize their production costs associated with water and wastewater treatment, to ensure effective management.</p>
       <div>
-      <a href="design" class="btn-style-two" style="padding: 9px 14px;font-size: 12px;background-color:aliceblue;color:grey; " ><span>Learn more</span></a>
+      <a href="design" class="btn-style-two" style="" ><span>Learn more</span></a>
       </div>
     </div>
 </div>
@@ -38,7 +38,7 @@
         <h4 class="color">Erection & Commissioning</h4>
       <p class="card-description-w">We are Turnkey contractors for Design, Construction, Erection and Commissioning of water and waste treatment plants, Supply, Erection & Commissioning of Onshore and Offshore Large Diameter Piping’s. We are undertaking Turnkey contracts for Water Supply projects, etc.</p><br>
       <div>
-      <a href="erection" class="btn-style-two" style="padding: 9px 14px;font-size: 12px;background-color:aliceblue;color:grey; " ><span>Learn more</span></a>
+      <a href="erection" class="btn-style-two" style="" ><span>Learn more</span></a>
       </div>
     </div>
 </div> 

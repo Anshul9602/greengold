@@ -177,7 +177,7 @@
                               <h2 class="title">Leaders in Steel Trading.</h2>
                               <p class="slider-text">With years of experience and a commitment to excellence, we are your trusted partner for driving industrial progress globally.</p>
                               <br>
-                              <a href="services" class="btn-style-four" style="padding: 10px 20px;">Read More</a>
+                              <a href="services" class="btn-style-four" style="">Read More</a>
                            </div>
                         </div>
                      </div>
@@ -195,7 +195,7 @@
                               <h2 class="title">Thriving Together.</h2> 
                               <p class="slider-text">Fostering sustainable progress and collective success for stronger, more resilient communities.</p>
                               <br>
-                              <a href="csr" class="btn-style-four" style="padding: 10px 20px;">Read More</a>
+                              <a href="csr" class="btn-style-four" style="">Read More</a>
                            </div>
                         </div>
                      </div>
@@ -213,7 +213,7 @@
                               <h2 class="title">Power & Integrity.</h2>
                               <p class="slider-text">Crafting a legacy of distinction with durable steel and steadfast principles.</p>
                               <br>
-                              <a href="ourstory" class="btn-style-four" style="padding: 10px 20px;">Read More</a>
+                              <a href="ourstory" class="btn-style-four" style="">Read More</a>
                            </div>
                         </div>
                      </div>
@@ -410,9 +410,7 @@
    <div class="support mousemove">
       <div class="container">
          <div class="support-bg">
-            <div class="support-bg-img">
-               <img src="<?php echo base_url(''); ?>/images/support/support-bg.png" alt="Support">
-            </div>
+            
             <div class="row">
                <div class="col-md-6">
                   <!-- Heading Start -->
@@ -509,12 +507,7 @@
                 </div>
             </div>
         </div>
-        <div class="shape shape-1">
-            <img src="<?php echo base_url(''); ?>/images/shape/shape-14.png" alt="Shape">
-        </div>
-        <div class="shape shape-2">
-            <img src="<?php echo base_url(''); ?>/images/shape/shape-2.png" alt="Shape">
-        </div>
+       
     </div>
     </div>
    <!-- Testimonial Section End -->

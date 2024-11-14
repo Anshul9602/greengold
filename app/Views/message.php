@@ -55,20 +55,6 @@ Let's do it for our customers for what they actually need in the way we endeavor
             </div>
         </div>
 
-        <div class="shape shape-1">
-            <img src="/images/shape/shape-7.png" alt="Shape">
-        </div>
-        <div class="shape shape-2">
-            <img src="/images/shape/shape-5.png" alt="Shape">
-        </div>
-        <div class="shape shape-3">
-            <img src="/images/shape/shape-11.png" alt="Shape">
-        </div>
-        <div class="shape shape-4">
-            <img src="/images/shape/shape-12.png" alt="Shape">
-        </div>
-        <div class="shape shape-5">
-            <img src="/images/shape/shape-13.png" alt="Shape">
-        </div>
+        
     </div>
     <!-- Quality Section End -->
