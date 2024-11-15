@@ -43,7 +43,7 @@
    </style>
 </head>
 
-<>
+
    <header style="border:none" class="header-wrapper-two sticky-header">
       <div class="custom-container">
          <div class="container-fluid">
@@ -63,7 +63,7 @@
                            <nav class="main-menu">
                               <ul>
                                  <li>
-                                    <a href="<?php echo base_url(''); ?>">Home</a>
+                                    <a href="<?php echo base_url(''); ?>"style="border-bottom: 2px solid;">Home</a>
                                  </li>
                                  <li class="has-children">
                                     <a href="ourstory">About</a>
@@ -110,6 +110,7 @@
          </div>
       </div>
    </header>
+
    <div class="offcanvas offcanvas-end" id="offcanvas-header">
       <div class="offcanvas-header">
          <!-- Header Logo Start -->
@@ -125,7 +126,7 @@
          <!-- mobile menu navigation start -->
          <ul class="mobile-menu">
             <li>
-               <a href="<?php echo base_url(''); ?>">HOME</a>
+               <a href="<?php echo base_url(''); ?>" style="border-bottom: 1px solid;">HOME</a>
             </li>
             <li class="menu-item-has-children">
                <a href="ourstory">ABOUT</a>
@@ -159,6 +160,7 @@
       </div>
    </div>
    <!------------------Header ends--------------------->
+   <body>
    <!-- Slider Section start -->
    <div class="slider-one">
       <div class="sliderbg-1" data-bg-image="<?php echo base_url(''); ?>/images/banner-y.jpg">

@@ -1,3 +1,10 @@
+  <style>
+    .wh{
+    border-bottom: 2px solid #fff;
+}
+  </style>
+  
+  
   <!---check --->
    <!-- Service Three Section Start -->
    <div class="service-three mt-4">

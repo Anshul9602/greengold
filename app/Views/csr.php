@@ -1,4 +1,11 @@
-   <!-- About Creative Section Start -->
+  <style>
+    .so{
+    border-bottom: 2px solid #fff;
+}
+  </style>
+  
+  
+  <!-- About Creative Section Start -->
    <div class="section-padding about-creative">
     <div class="container">
         <div class="row">

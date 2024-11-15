@@ -1,4 +1,8 @@
-
+<style>
+    .con{
+    border-bottom: 2px solid #fff;
+}
+</style>
 
 <!-- Contact Us Section Start -->
     <div class="contact-us section-margin">

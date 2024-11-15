@@ -1,5 +1,9 @@
 <!-- Funfact Section Start -->
-
+<style>
+   .ab{
+    border-bottom: 2px solid #fff;
+}
+</style>
 <!-- Funfact Section End -->
 <div class="section-padding about-creative">
 

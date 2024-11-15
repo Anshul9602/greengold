@@ -60,15 +60,15 @@
                                     <nav class="main-menu">
                                         <ul>
                                             <li>
-                                                <a href="<?php echo base_url(''); ?>">Home</a>
+                                                <a href="<?php echo base_url(''); ?>" class="">Home</a>
                                             </li>
                                             <li class="has-children">
-                                                <a href="ourstory">About</a>
+                                                <a href="ourstory" class="ab">About</a>
                                                 <ul class="sub-menu">
-                                                    <li class="has-submenu"><a href="ourstory">Company</a>
+                                                    <li class="has-submenu"><a class="co" href="ourstory">Company</a>
                                                     </li>
                                                    
-                                                    <li class="has-submenu"><a href="career">Career</a>
+                                                    <li class="has-submenu"><a class="ca" href="career">Career</a>
                                                     </li>
                                                    
 
@@ -77,15 +77,15 @@
                                                 </ul>
                                             </li>
                                             <li >
-                                                <a href="services">What We Do</a>
+                                                <a href="services" class="wh">What We Do</a>
                                               
                                             </li>
                                           
                                             <li>
-                                                <a href="csr">Social Responsibility</a>
+                                                <a href="csr" class="so">Social Responsibility</a>
                                             </li>
                                             <li>
-                                                <a href="contact">Contact</a>
+                                                <a href="contact" class="con">Contact</a>
                                             </li>
                                         </ul>
                                     </nav>
