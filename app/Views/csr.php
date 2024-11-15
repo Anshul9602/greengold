@@ -38,23 +38,45 @@
                         <div class="tab-content" id="nav-tabContent">
                             <div class="tab-pane fade show active" id="nav-mission" role="tabpanel" aria-labelledby="nav-mission-tab">
                                 <div class="nav-content-inner">
-                                    <p>We emphasize responsible sourcing and recycling initiatives, ensuring that our processes actively reduce waste and conserve valuable resources. We seek partnerships with suppliers who align with our dedication to environmental responsibility.
-                                    </p>
-                                    <img src="<?php echo base_url(''); ?>/images/about/mission.jpeg" alt="Mission Image">
+                                <div class="row">
+                                        <div class="col-md-6">
+                                        <p>We emphasize responsible sourcing and recycling initiatives, ensuring that our processes actively reduce waste and conserve valuable resources. We seek partnerships with suppliers who align with our dedication to environmental responsibility.
+                                        </p>
+                                        </div>
+                                        <div class="col-md-4">
+                                        <img src="<?php echo base_url(''); ?>/images/about/sustainability.png" alt="Vision Image">
+                                        </div>
+                                    </div>
+                                    
+                                  
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="nav-vision" role="tabpanel" aria-labelledby="nav-vision-tab">
                                 <div class="nav-content-inner">
-                                    <p>Our ongoing efforts focus on enhancing the energy efficiency of our operations. By adopting innovative technologies and streamlining our workflows, we effectively lower our energy usage and minimize our carbon emissions.
-                                    </p>
-                                    <img src="<?php echo base_url(''); ?>/images/about/mission.jpeg" alt="Vision Image">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                        <p>Our ongoing efforts focus on enhancing the energy efficiency of our operations. By adopting innovative technologies and streamlining our workflows, we effectively lower our energy usage and minimize our carbon emissions.
+                                        </p>
+                                        </div>
+                                        <div class="col-md-4">
+                                        <img src="<?php echo base_url(''); ?>/images/about/efficiency.png" alt="Vision Image">
+                                        </div>
+                                    </div>
+                                    
+                                  
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="nav-history" role="tabpanel" aria-labelledby="nav-history-tab">
                                 <div class="nav-content-inner">
-                                    <p>We prioritize the use of sustainable packaging solutions to limit waste. Our mission is to lessen the environmental footprint of our products from the initial sourcing phase through to final delivery.
-                                    </p>
-                                    <img src="<?php echo base_url(''); ?>/images/about/mission.jpeg" alt="Eco-Friendly Practices Image">
+                                <div class="row">
+                                        <div class="col-md-6">
+                                        <p>We prioritize the use of sustainable packaging solutions to limit waste. Our mission is to lessen the environmental footprint of our products from the initial sourcing phase through to final delivery.
+                                        </p>
+                                        </div>
+                                        <div class="col-md-4">
+                                        <img src="<?php echo base_url(''); ?>/images/about/eco.png" alt="Vision Image">
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -151,7 +173,7 @@
 <div style="background:#f1f1f1; padding:60px 0px" class="speciality ">
     <div class="container">
         <div class="row align-items-center mb-n60">
-            <div class="col-lg-6 mb-60 wow fadeIn" fadeIndata-wow-duration=".1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: .5s; animation-delay: 0.01s; animation-name: fadeIn;">
+            <div class="col-lg-5 mb-60 wow fadeIn" fadeIndata-wow-duration=".1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: .5s; animation-delay: 0.01s; animation-name: fadeIn;">
                 <div class="speciality-image">
                     <div class="speciality-image-inner">
                         <img class="js-tilt" src="<?php echo base_url('images/csr/csr-3.jpeg'); ?>" alt="speciliity" style="will-change: transform; transform: perspective(3000px) rotateX(0deg) rotateY(0deg);">

@@ -8,9 +8,12 @@
                     <!-- Single Service Start -->
                     <div class="service-three-single">
                         <span class="service-three-icon">
-                            <img src="<?php echo base_url();?>/images/icon/service/icon-11.png" alt="Icon">
+                            <img src="<?php echo base_url();?>/images/service/c_s.png" alt="Icon">
                         </span>
+                        <div class="content">
                         <h4 class="service-three-title">Consultancy & Solutions</h4> <p class="service-three-text">Green Gold offers expert advice and tailored solutions for efficient outcomes in the steel and coal sectors.</p>
+                        </div>
+                        
                     </div>
                     <!-- Single Service End -->
                 </div>
@@ -18,9 +21,12 @@
                     <!-- Single Service Start -->
                     <div class="service-three-single">
                         <span class="service-three-icon">
-                            <img src="<?php echo base_url();?>/images/icon/service/icon-11.png" alt="Icon">
+                            <img src="<?php echo base_url();?>/images/service/b_a.png" alt="Icon">
                         </span>
+                        <div class="content">
                         <h4 class="service-three-title">Business Automation</h4> <p class="service-three-text">Green Gold streamlines operations with innovative automation solutions, enhancing efficiency in the steel and coal industries.</p>
+                        </div>
+                        
                     </div>
                     <!-- Single Service End -->
                 </div>
@@ -28,9 +34,12 @@
                     <!-- Single Service Start -->
                     <div class="service-three-single">
                         <span class="service-three-icon">
-                            <img src="<?php echo base_url();?>/images/icon/service/icon-11.png" alt="Icon">
+                            <img src="<?php echo base_url();?>/images/service/p_a.png" alt="Icon">
                         </span>
+                        <div class="content">
                         <h4 class="service-three-title">Project Analysis & Reporting</h4> <p class="service-three-text">Green Gold provides precise analysis and reporting to drive better decisions in steel and coal projects.</p>
+                        </div>
+                        
                     </div>
                     <!-- Single Service End -->
                 </div>
@@ -38,9 +47,12 @@
                     <!-- Single Service Start -->
                     <div class="service-three-single">
                         <span class="service-three-icon">
-                            <img src="<?php echo base_url();?>/images/icon/service/icon-11.png" alt="Icon">
+                            <img src="<?php echo base_url();?>/images/service/m_m.png" alt="Icon">
                         </span>
+                        <div class="content">
                         <h4 class="service-three-title">Marketing & Management</h4> <p class="service-three-text">Green Gold offers strategic marketing and management solutions to enhance growth in the steel and coal industries.</p>
+                        </div>
+                        
                     </div>
                     <!-- Single Service End -->
                 </div>
@@ -71,17 +83,13 @@
                            <img src="<?php echo base_url();?>/images/ss1.png" alt="ServiceImage">
                         </div>
                         <div class="service-single-image-content">
-                           <div class="icon">
-                              <img src="<?php echo base_url();?>/images/icon/service/icon-11.png" alt="Icon">
-                           </div>
+                           
                            <h4 class="title">Ferrous Scrap </h4>
                         </div>
                      </div>
                      <div class="service-single-white">
                         <a href="services" class="service-single-white-content">
-                           <div class="icon gradient-1">
-                              <img src="<?php echo base_url();?>/images/icon/service/icon-1-white.png" alt="Icon">
-                           </div>
+                          
                            <span class="title"> Ferrous Scrap </span>
                            <p> From the smallest foundries to the largest steelmakers, the world's most successful scrap consumers trust us to provide the raw material for their operations.</p>
                         </a>
@@ -97,17 +105,13 @@
                            <img src="<?php echo base_url();?>/images/ss2.png" alt="ServiceImage">
                         </div>
                         <div class="service-single-image-content">
-                           <div class="icon">
-                              <img src="<?php echo base_url();?>/images/icon/service/icon-11.png" alt="Icon">
-                           </div>
+                           
                            <h4 class="title">Non Ferrous Scrap</h4>
                         </div>
                      </div>
                      <div class="service-single-white">
                         <a href="services" class="service-single-white-content">
-                           <div class="icon gradient-1">
-                              <img src="<?php echo base_url();?>/images/icon/service/icon-1-white.png" alt="Icon">
-                           </div>
+                          
                            <span class="title">Non Ferrous Scrap</span>
                            <p>We also trade in non-ferrous scrap mainly Stainless Steel Scrap, Aluminium, Copper, Brass, Lead and Zinc.</p>
                         </a>
@@ -123,17 +127,13 @@
                            <img src="<?php echo base_url();?>/images/ss3.png" alt="ServiceImage">
                         </div>
                         <div class="service-single-image-content">
-                           <div class="icon">
-                              <img src="<?php echo base_url();?>/images/icon/service/icon-11.png" alt="Icon">
-                           </div>
+                           
                            <h4 class="title">Paper Scrap </h4>
                         </div>
                      </div>
                      <div class="service-single-white">
                         <a href="services" class="service-single-white-content">
-                           <div class="icon gradient-1">
-                              <img src="<?php echo base_url();?>/images/icon/service/icon-1-white.png" alt="Icon">
-                           </div>
+                          
                            <span class="title">Paper Scrap </span>
                            <p>Old corrugated containers are one of the core business areas. 
                               The company is actively engaged in world-wide Trading of paper scrap.</p>

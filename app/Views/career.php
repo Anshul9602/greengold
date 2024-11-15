@@ -36,6 +36,17 @@
     input[type="submit"]:hover {
         background-color: #218838;
     }
+    .footer-widget-form input {
+    width: 100%;
+    height: 60px;
+    border-radius: 5px;
+    border: 0px;
+    padding: 0 60px 0 15px;
+    color: #717788;
+         margin-bottom: 0px;
+    font-family: "Inter", sans-serif;
+    font-size: 16px;
+}
 </style>
 <br /><br />
 <div class="speciality ">
@@ -43,8 +54,8 @@
         <div class="row align-items-center mb-n60">
             <div class="col-lg-6 mb-60 wow fadeIn" fadeIndata-wow-duration=".1s" data-wow-delay=".1s" style="visibility: visible; animation-duration: .5s; animation-delay: 0.01s; animation-name: fadeIn;">
                 <div class="speciality-image">
-                    <div class="speciality-image-inner">
-                        <img class="js-tilt" src="images/speciality/speciality.png" alt="speciliity" style="will-change: transform; transform: perspective(3000px) rotateX(0deg) rotateY(0deg); transition: 4000ms cubic-bezier(0.03, 0.98, 0.52, 0.99);">
+                    <div class="speciality-image-inner" style="border-radius: 20px;overflow: hidden;">
+                        <img class="js-tilt" src="images/speciality/speciality1.png" alt="speciliity" style="will-change: transform; transform: perspective(3000px) rotateX(0deg) rotateY(0deg); transition: 4000ms cubic-bezier(0.03, 0.98, 0.52, 0.99);">
                     </div>
 
                 </div>

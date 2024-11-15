@@ -475,7 +475,7 @@ hr {
   cursor: pointer;
   opacity: 0;
   visibility: hidden;
-  background-color: #05402A;
+  background-color: #000;
   background-size: 200% auto;
   background-position: left center;
   transition: 0.3s;
@@ -6516,7 +6516,7 @@ header{
   top: 0;
   left: 0;
   z-index: 2;
-  border-radius: 15px;
+
   background: #181817;
   
   opacity: 0.6;
@@ -6576,7 +6576,7 @@ header{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  border-radius: 14px;
+ 
 }
 .service-single-white-content {
   display: flex;
@@ -6973,9 +6973,7 @@ header{
 .service-three-wrapper .single-service {
   margin-bottom: 30px;
 }
-.service-three-wrapper .single-service:nth-child(2n+2) {
-  margin-top: 70px;
-}
+
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
   .service-three-wrapper .single-service:nth-child(2n+2) {
     margin-top: 0;
@@ -6984,13 +6982,19 @@ header{
 .service-three-single {
   box-shadow: 15px 11px 48px 0px rgba(0, 0, 0, 0.08);
   border-radius: 13px;
-  padding: 60px 50px;
+  overflow: hidden;
   background: #ffffff;
   position: relative;
   min-height: 360px;
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+.service-three-single .content {
+  
+  padding: 15px 25px;
+  background: #ffffff;
+ 
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px) {
   .service-three-single {
@@ -10583,7 +10587,7 @@ header{
 .footer {
   position: relative;
   overflow: hidden;
-  background-color: #053B34;
+  background-color: black;
   padding: 65px 20px;
 }
 
@@ -12033,7 +12037,9 @@ header{
   color: #717788;
   display: block;
   margin: 10px 0 0px;
+  min-height: 120px;
 }
+
 .single-team-social {
   display: flex;
   justify-content: center;
@@ -12543,7 +12549,7 @@ header{
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 120px 0;
+  padding: 40px 0;
   position: relative;
   width: 180%;
   right: 78%;
@@ -12646,9 +12652,10 @@ header{
   left: -2.2%;
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
-  justify-content: flex-end;
+  align-items: center;
+  justify-content: center;
   row-gap: 60px;
+  height: 100%;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .system-bg2 {
@@ -14437,7 +14444,7 @@ header{
 /*----------------------------------------*/
 .home-contact {
   position: relative;
-  margin-top: -275px;
+ 
 }
 .home-contact_wrapper {
   background-color: #05402A ;
