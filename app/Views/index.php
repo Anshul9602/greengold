@@ -512,7 +512,43 @@
 
    <!-- Testimonial Section End -->
    <!-- Brand Section Start -->
-
+   <div class="brand-four" >
+      <div class="container">
+         <div class="row">
+            <div class="col-12 wow fadeIn" fadeIndata-wow-duration=".1s" data-wow-delay=".1s">
+               <div class="brand-slider brand-style swiper">
+                  <div class="swiper-wrapper">
+                     <div class="swiper-slide">
+                        <!-- Single Brand Start -->
+                        <a class="brand-before" href="#"><img src="<?php echo base_url(''); ?>/images/brand//1.png" alt="Brand-Image"></a>
+                        <!-- Single Brand End -->
+                     </div>
+                     <div class="swiper-slide">
+                        <!-- Single Brand Start -->
+                        <a class="brand-before" href="#"><img src="<?php echo base_url(''); ?>/images/brand/2.png" alt="Brand-Image"></a>
+                        <!-- Single Brand End -->
+                     </div>
+                     <div class="swiper-slide">
+                        <!-- Single Brand Start -->
+                        <a class="brand-before" href="#"><img src="<?php echo base_url(''); ?>/images/brand/3.png" alt="Brand-Image"></a>
+                        <!-- Single Brand End -->
+                     </div>
+                     <div class="swiper-slide">
+                        <!-- Single Brand Start -->
+                        <a class="brand-before" href="#"><img src="<?php echo base_url(''); ?>/images/brand/4.png" alt="Brand-Image"></a>
+                        <!-- Single Brand End -->
+                     </div>
+                     <div class="swiper-slide">
+                        <!-- Single Brand Start -->
+                        <a class="brand-before" href="#"><img src="<?php echo base_url(''); ?>/images/brand/5.png" alt="Brand-Image"></a>
+                        <!-- Single Brand End -->
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
    <!-- Brand Section End -->
    <!-- Home Contact Form Start -->
    <div class="home-contact">
